@@ -40,7 +40,7 @@ java -jar Phosphor/target/Phosphor-0.0.5-SNAPSHOT.jar -controlTrack /usr/lib/jvm
 chmod +x jre-inst/bin/*
 ```        
 
-3. Clone this example into the main directory of the Phosphor project (so the path is  ..../phosphor/phosphor-example). For building the example, execute:
+3. Clone this phosphor-exampel project into the main directory of the Phosphor project (so the path is  ..../phosphor/phosphor-example). For building the example, execute:
 ```
 cd /path/to/phophor-examples
 mvn install:install-file -Dfile=../Phosphor/target/Phosphor-0.0.5-SNAPSHOT.jar -DgroupId=edu.columbia.cs.psl.phosphor -DartifactId=Phosphor -Dversion=0.0.5-SNAPSHOT -Dpackaging=jar #installs jar as local artifacte in ~/.m2/
