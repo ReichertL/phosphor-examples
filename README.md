@@ -6,7 +6,7 @@ To setup Phosphor first clone the project from the link above, then follow the i
 Before you can start, you need to install `maven` and Oracle or OpenJDK Java 8. 
 
 1. Find out JRE path
-```
+    ```
     whereis java
     ```
     or 
