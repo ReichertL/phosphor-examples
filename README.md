@@ -1,5 +1,6 @@
 
-# Running
+# How to Use Prosphor for Taint Analysis on Android 
+## Running
 In order to run the examples, you must download the Phosphor project and build it.
 See [Phosphor](https://github.com/gmu-swe/phosphor) for more information. 
 To setup Phosphor first clone the project from the link above, then follow the instructions below. 
